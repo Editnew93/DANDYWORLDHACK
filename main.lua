@@ -7,6 +7,7 @@ function module:CreateNewTab(tabid)
 	local UICorner2 = Instance.new("UICorner")
 	ScreenGui0.Parent = game.Players.LocalPlayer.PlayerGui
 	ScreenGui0.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	ScreenGui0.ResetOnSpawn = false
 	Frame1.Parent = ScreenGui0
 	Frame1.Position = UDim2.new(0.224718869, 0, 0.236252546, 0)
 	Frame1.Size = UDim2.new(0, 440, 0, 259)
