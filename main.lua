@@ -486,7 +486,7 @@ a:AddNewHackToList("ESP", "esp-generators", {
 		esp.itemsenabled = false
 	end
 }, "ESP Generators", "Enables ESP for generators.")
-a:AddTab("Speed", 122312467017149, false)
+a:AddTab("Speed", 90234209088161, false)
 local characterSpeeds = {
 	pebble = {
 		speed = 30,
