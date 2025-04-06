@@ -9,7 +9,7 @@ function module:CreateNewTab(tabid)
 	ScreenGui0.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 	ScreenGui0.ResetOnSpawn = false
 	Frame1.Parent = ScreenGui0
-	Frame1.Position = UDim2.new(0.224718869, 0, 0.236252546, 0)
+	Frame1.Position = UDim2.new(0, 0, 0, 0)
 	Frame1.Size = UDim2.new(0, 440, 0, 259)
 	Frame1.BackgroundColor = BrickColor.new("Really black")
 	Frame1.BackgroundColor3 = Color3.new(0.0705882, 0.0705882, 0.0705882)
