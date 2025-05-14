@@ -384,7 +384,7 @@ local a = test:CreateNewTab("a")
 local esp = {
 	itemsenabled = false
 }
-a:NewTitle("Dandy's World Hack")
+a:NewTitle("Dandy's World Hack (V 1.0.1)")
 a:AddSections()
 a:AddTab("ESP", 90234209088161, true)
 a:AddNewHackToList("ESP", "esp-items", {
