@@ -600,6 +600,10 @@ local characterSpeeds = {
 	razzledazzle_even = {
 		speed = 20,
 		call = "Razzle & Dazzle (on even numbered floors)"
+	},
+	pebblechasespeed = {
+		speed = 35,
+		call = "Pebble [Twisted] (for distracting)"
 	}
 }
 
